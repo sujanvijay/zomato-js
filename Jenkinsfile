@@ -8,9 +8,9 @@ pipeline {
 
     environment {
         SONARQUBE_ENV = 'sq'
-        DOCKER_IMAGE = "rajeshtutta123/zomato"
+        DOCKER_IMAGE = "sujanvjijay/zomato"
         AWS_DEFAULT_REGION = 'us-east-1'
-        RECIPIENTS = 'rajeshtutta123@gmail.com'
+        RECIPIENTS = 'sujanvijay2311@gmail.com'
     }
 
     stages {
